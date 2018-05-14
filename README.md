@@ -10,5 +10,4 @@ go get -u golang.org/x/oauth2
 go build server.go
 ```
 
-
-<img src="https://github.com/snjt/gitfinder/blob/master/site.png" width="200" height="200">
+<img src="https://github.com/snjt/gitfinder/blob/master/site.png" width="1195" height="634">
