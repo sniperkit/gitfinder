@@ -1,5 +1,5 @@
 # gitfinder
-A web application that uses a golang backend to filter github repos and favorite them or delete them. Uses
+A simple web application that uses a golang backend to filter github repos and favorite them or delete them. Uses
 the golang github api to do this.
 
 To build the server:
